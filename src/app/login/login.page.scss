@@ -1,0 +1,47 @@
+.fondo {
+    background-image: url('/assets/g.jpg');
+    height: 100%;
+    width: 100%;
+    background-position: back;
+    background-size: 100%;
+}
+
+.text {
+    margin-top: 25%;
+    text-align: center;
+}
+
+.boton1 {
+    margin-top: 35%;
+    margin-bottom: 10%;
+    margin-left: 18%;
+}
+
+.labels {
+    line-height: 50px;
+    box-sizing: content-box;
+    font-size: 35px;
+    color: black;
+    font-family: 'Roboto-Light';
+    opacity: 1;
+    //max-width: 250px;
+}
+
+.cuadro {
+    padding-top: 50%;
+    margin-left: 10%;
+    height: 10%;
+    width: 80%;
+}
+
+.contr {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.bro {
+    margin-top: 15%;
+    margin-left: 10%;
+    height: 10%;
+    width: 80%;
+}

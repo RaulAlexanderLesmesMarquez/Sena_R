@@ -1,0 +1,35 @@
+.listas1 {
+    text-align: left;
+    margin-left: 10%;
+    padding-top: 10%;
+}
+
+.uno {
+    float: right;
+    margin-right: 10%;
+}
+
+.botones {
+    margin-top: 30%;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.fondo {
+    background-image: url('/assets/g.jpg');
+    height: 100%;
+    width: 100%;
+    background-position: back;
+    background-size: 100%;
+}
+
+.labels {
+    line-height: 50px;
+    box-sizing: content-box;
+    font-size: 35px;
+    color: black;
+    font-family: 'Roboto-Light';
+    opacity: 1;
+    margin-top: 30%;
+    text-align: center;
+}
